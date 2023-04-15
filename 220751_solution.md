@@ -48,11 +48,10 @@ LONG DESCRIPTION
 
 ## Your first approach below (first.txt)
 
-Reasoning - %%% Type your approach here %%%
+Reasoning -googled it got to know about left and right rotation in strings. after a lot of observation thought "s" used mostly in sentance should be "a". so then after some trail and error understood that /n are the 19 shifts as a as i, b as j,...r as z ,s as a, t as b .... 
 
-```
-%%% Replace this with the 1st challenge answer %%%
-```
+fgauww qgm vav ujsuc s jglslagf wfujqhlagf gf qgmj gof. Lzw xgddgoafy ak s udmw xgj lzw fwpl hmrrdw: UDSKK gx lzsl AFHML
+decoded as= noicee you did crack a rotation encryption on your own. The following is a clue for the next puzzle: CLASS of that INPUT
 
 ---
 
